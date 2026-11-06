@@ -233,3 +233,13 @@ nm hello | grep -E ' (main|greet|discount)$'
 cd <ghidra 설치 폴더>
 ./ghidraRun
 ```
+
+![](001.png) <br>
+![](002.png) <br>
+![](003.png) <br>
+![](004.png) <br>
+![](005.png) <br>
+![](006.png) <br>
+![](007.png) <br>
+
+
